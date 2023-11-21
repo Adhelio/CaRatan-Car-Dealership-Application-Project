@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/mnHome"
+        android:icon="@drawable/carhome"
+        android:title="Beranda" />
+
+    <item
+        android:id="@+id/mnExplore"
+        android:icon="@drawable/carexplore"
+        android:title="Explore" />
+
+    <item
+        android:id="@+id/mnTrade"
+        android:icon="@drawable/cartrade"
+        android:title="Penjualan" />
+
+    <item
+        android:id="@+id/mnProfile"
+        android:icon="@drawable/usericon"
+        android:title="Profile" />
+</menu>
